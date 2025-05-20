@@ -1,0 +1,890 @@
+No of Calls,DATE,NAME,PROFESSION,License Type,ISSUE,SOLUTION
+1,1/27/2025,Melissa Young,Healing arts,Business,License querries,Referred to board
+2,1/27/2025,Paula akins,Healing arts,Individual ,Walkthrough,Renewed
+3,1/27/2025,Timothy colleen,Physician,Individual ,Update email,Registered
+4,1/27/2025,Angela Renee Miner,Massage,Individual ,Update email,Registered
+5,1/27/2025,Eftekhar Arshadi,Dental,Individual ,Walkthrough,Renewed
+6,1/27/2025,Muna Orra,Healing arts,Individual ,Walkthrough,Renewed
+7,1/27/2025,smruthi Kumar,Physician,Individual ,Walkthrough,Renewed
+8,1/27/2025,Courtney Shay,Physician,Individual ,Update email,Registered
+9,1/27/2025,Kelly Kertz,Physician,Individual ,Update email,Registered
+10,1/27/2025,Brandy Niepmann,Nursing,Individual ,Update email,Registered
+11,1/27/2025,Marketa keith,Massage,Business,Walkthrough,Renewed
+12,1/27/2025,Harley Davis ,Real Estate,Business,Update email,Renewed
+13,1/27/2025,Tobey Cronnell,Physician,Individual ,Update email,Registered
+14,1/27/2025,Emily Dillon,Healing arts,Individual ,Walkthrough,Renewed
+15,1/27/2025,Michaela Voss,Physician,Individual ,Update email,Registered
+16,1/27/2025,Arlette Jones,Nursing,Individual ,Walkthrough,Renewed
+17,1/28/2025,Bryce Koelling,Chiropractic,Individual ,Update email,Registered
+18,1/28/2025,Mark vanderley,Chiropractic,Individual ,Password reset,Resolved
+19,1/28/2025,Registered,Healing arts,Individual ,Password reset,Resolved
+20,1/28/2025,Sarah Vignery,Speech language,Individual ,Walkthrough,Renewed
+21,1/28/2025,Hannah Renee Griffin,Nursing,Individual ,Password reset,Resolved
+22,1/28/2025,Therasa Muaghalu,Healing Arts,Individual ,Walkthrough,Renewed
+23,1/28/2025,Vickie Abbott,Pharmacy,Individual ,Update email,Registered
+24,1/28/2025,Caitlin Crutsinger,Real Estate,Business,License querries,Referred to board
+25,1/28/2025,Elli Jones,Healing Arts,Individual ,Update Email,Registered
+26,1/28/2025,Larry Clayton Hollenbeck,Physiscian,Individual ,License querries,Referred to board
+27,1/29/2025,Lisa Allison,Healing Arts,Individual ,Update Email,Registered
+28,1/29/20265,Scott dawson,Physician,Individual ,License querries,Referred to board
+29,1/29/2025,Deborah boshan,Healing Arts,Individual ,Update Email,Registered
+30,1/29/2025,Robert figenshan,Healing Arts,Individual ,Update Email,Registered
+31,1/29/2025,Julie Franklin,Nursing,Individual ,License querries,Referred to board
+32,1/29/2025,David parr,Nursing,Individual ,Password reset,Resolved
+33,1/29/2025,Sandra cunning,Cosmetology,Business,Application issue,Resolved
+34,1/29/2025,Kylin Grabb,Healing Arts,Individual ,License querries,Referred to board
+35,1/29/2025,Wanda Magruder,Real Estate,Business,License querries,Referred to board
+36,1/29/2025,Laura Kay Castrogiovanni,Healing Arts,Individual ,Update Email,Registered
+37,1/29/2025,Steven,Healing Arts,Individual ,Update Email,Registered
+38,1/29/2025,Kylin curab,Physician,Individual ,Application issue,Resolved
+39,1/29/2025,Randy Summers,Real Estate,Business,License querries,Referred to board
+40,1/29/2025,Shawn Oliver,Cosmetology,Business,Update Email,Registered
+41,1/29/2025,Robert Thurman,Healing Arts,Individual ,License querries,Referred to board
+42,1/29/2025,Emily Craver,Nursing,Individual ,Update Email,Registered
+43,1/29/2025,Matthew Reith,Healing Arts,Individual ,Walkthrough,Renewed
+44,1/29/2025,Viktor Ballada,Physician,Individual ,Update Email,Registered
+45,1/29/2025,Pamela Intintola,Nursing,Individual ,Walkthrough,Renewed
+46,1/29/2025,Dr.Ralph Harold,Nursing,Individual ,License querries,Referred to board
+47,1/29/2025,Robert Hitchcook,Healing Arts,Individual ,Update Email,Registered
+48,1/29/2025,Kristine A Lowe,Healing Arts,Individual ,Walkthrough,Renewed
+49,1/30/2025,Tina Burkett,Healing Arts,Individual ,License querries,Referred to board
+50,1/30/2025,Office no,Healing Arts,Individual ,Walkthrough,Renewed
+51,1/30/2025,Office no,Nursing,Individual ,Update Email,Registered
+52,1/30/2025,Morgan Blunt,Nursing,Individual ,Walkthrough,Renewed
+53,1/30/2025,Howard Barnes,Real Estate,Business,License querries,Referred to board
+54,1/30/2025,Malissia Smith,Healing Arts,Individual ,License querries,Referred to board
+55,1/30/2025,Donna Kay Haase,Cosmetology,Individual ,Update Email,Registered
+56,1/30/2025,Kara D North,Nursing,Individual ,Update Email,Registered
+57,1/30/2025,Ann Carmack,Healing Arts,Individual ,Walkthrough,Renewed
+58,1/31/2025,Jacqueline morris,Nursing,Individual ,Update Email,Registered
+59,1/31/2025,Pooja Gautam Bhadbhade,Healing Arts,Individual ,Update Email,Registered
+60,1/31/2025,Mary Broadbent,Real Estate,Business,License querries,Referred to board
+61,1/31/2025,Carol A Naes,Veterinary,Individual ,Update Email,Registered
+62,1/31/2025,Joanna Green,Healing Arts,Individual ,Update Email,Registered
+63,1/31/2025,Aira Evergarden,Healing Arts,Individual ,Walkthrough,Resolved
+64,1/31/2025,Jill Whitesell,Healing Arts,Individual ,Update Email,Registered
+65,1/31/2025,Carol Thomas,Physician,Individual ,Update Email,Registered
+66,1/31/2025,Leslie Spahr Albair,Speech language,Individual ,Update Email,Registered
+67,1/31/2025,Cheryl Lynn Collins,Healing Arts,Individual ,Password reset,Resolved
+68,1/31/2025,Clint D Boston,Healing Arts,Individual ,Update Email,Registered
+69,1/31/2025,Tammy Jo Clark,Healing Arts,Individual ,Password reset,Resolved
+70,1/31/2025,Julie Weber,Nursing,Individual ,Update Email,Registered
+71,1/31/2025,Mary Broadbent,Healing Arts,Individual ,Update Email,Registered
+72,2/1/2025,Jann Payree Short,Nursing,Individual ,Password reset,Resolved
+73,2/1/2025,Carol Heimburger,Nursing,Individual ,Password reset,Resolved
+74,2/2/2025,Lauren Eileen Cobb,Nursing,Individual ,Update Email,Registered
+75,2/2/2025,Lisa C Lopez,Nursing,Individual ,License querries,Referred to board
+76,2/3/2025,Elizabeth Mirabile,Cosmetology,Business,License querries,Referred to board
+77,2/3/2025,Kaitlyn Bickel,Nursing,Individual ,Update Email,Registered
+78,2/3/2025,Henry Keiler Bluhm,Physician,Individual ,License querries,Referred to board
+79,2/3/2025,Christine Huelsing,Real Estate,Individual ,License querries,Referred to board
+80,2/3/2025,Karen sheahan,Dental,Individual ,Update Email,Registered
+81,2/3/2025,Veronica M Byrne,Healing Arts,Individual ,Update email,Registered
+82,2/3/2025,George Henstorf,Nursing,Individual ,Update Email,Registered
+83,2/3/2025,Rhonda Henstorf,Nursing,Individual ,Update Email,Registered
+84,2/3/2025,Laura McMurray,Dental,Individual ,Update Email,Registered
+85,2//3/2025,Andrea L Volk,Nursing,Individual ,Update Email,Registered
+86,2/3/2025,Marcia Kaye Harris-Doherty,Healing Arts,Individual ,Update Email,Registered
+87,2/3/2025,Gayle M Lutz,Nursing,Individual ,Password reset,Resolved
+88,2/3/2025,Dana Zamora,Real Estate,Business,License querries,Referred to board
+89,2/3/2025,Robin allen,Nursing,Individual ,Password reset,Resolved
+90,2/3/2025,Michael gunn,Nursing,Individual ,Walkthrough,Renewed
+91,2/3/2025,Lawatha E Spicer,Pharmacy,Individual ,Update Email,Registered
+92,2/3/2025,Mary Louise Belken,Dental,Individual ,Password reset,Resolved
+93,2/4/2025,Amy Mills,Nursing,Individual ,Walkthrough,Renewed
+94,2/4/2025,Alice M Winder,Nursing,Individual ,Walkthrough,Renewed
+95,2/4/2025,Dorothy Jean Stewart,Nursing,Individual ,Update Email,Registered
+96,2/4/2025,Suzanne Marie Werthmann,Nursing,Individual ,Walkthrough,Registered
+97,2/4/2025,Trinh Nguyen Tran,Pharmacy,Business,Update Email,Registered
+98,2/4/2025,Connie Johnson,Nursing,Individual ,Update Email,Registered
+99,2/4/2025,Fabiola Quinones Carrillo,Nursing,Individual ,Password reset,Resolved
+100,2/4/2025,Gloria Archer,Real Estate,Business,Update Email,Registered
+101,2/4/2025,Gilner Zephyr,Pharmacy,Individual ,Password reset,Resolved
+102,2/4/2025,Jason Robert Williams,Healing Arts,Individual ,Update Email,Registered
+103,2/5/2025,Annalise,Nursing,Individual ,Update Email,Registered
+104,2/5/2025,Robin wollard,Healing Arts,Individual ,Walkthrough,Resolved
+105,2/5/2025,Elona Hertzog,Nursing,Individual ,update email,Registered
+106,2/5/2025,Holly Jean Samples,Dental,Individual ,Walkthrough,Renewed
+107,2/5/2025,Susan Akins,Nursing,Individual ,Update Email,Registered
+108,2/5/2025,Jessica,Healing Arts,Individual ,Update Email,Registered
+109,2/5/2025,Bret R Shaw,Nursing,Individual ,Password reset,Resolved
+110,2/5/2025,Todd J Stojeba,Real Estate,Individual ,Update Email,Registered
+111,2/5/2025,Shaun ross,Nursing,Individual ,Password reset,Registered
+112,2/5/2025,Mildred wright,Nursing,Individual ,Update Email,Registered
+113,2/5/2025,Harry Williams,Pharmacy,Individual ,Update Email,Registered
+114,2/5/2025,Linda L Schlick,Dental,Individual ,Walkthrough,Renewed
+115,2/5/2025,License related issue,Nursing,Individual ,update email,Registered
+116,2/5/2025,Eric Nepute,Chiropractic,Individual ,Walkthrough,Renewed
+117,2/6/2025,Bruce Williams,Dental,Individual ,Update Email,Registered
+118,2/6/2025,Erik H Andersen,Veterinary,Individual ,Update Email,Registered
+119,2/6/2025,George Gibs,Nursing,Individual ,Password reset,Resolved
+120,2/6/2025,Guinua cao,Nursing,Individual ,Update Email,Registered
+121,2/6/2025,Waleta Spear,Chiropractic,Individual ,Password reset,Resolved
+122,2/6/2025,Jennifer Arlene Presson,Nursing,Individual ,Update Email,Registered
+123,2/6/2025,Nancy Ann Hinson,Nursing,Individual ,Update Email,Registered
+124,2/6/2025,Kathy S Baker,Nursing,Individual ,Walkthrough,Renewed
+125,2/19/2025,Kimberly brown,Nursing,Individual ,Update Email,Registered
+126,2/19/2025,Brenda frost,Nursing,Individual ,Update Email,Registered
+127,2/19/2025,Erin Nicole Winschel,Nursing,Individual ,Password reset,Resolved
+128,2/20/2025,Lisa L Savory,Nursing,Individual ,Update Email,Registered
+129,2/20/2025,Susan mcpeak,Cosmetology,Business,Update Email,Registered
+130,2/20/2025,Emerita Cunanan Gomez,Nursing,Individual ,Password reset,Resolved
+131,2/20/2025,Timothy Towers,Chiropractic,Individual ,Update Email,Registered
+132,2/20/2025,Shauna Ferguson,Nursing,Individual ,Password reset,Resolved
+133,2/20/2025,Kristie L Coburn,Nursing,Individual ,Password reset,Resolved
+134,2/20/2025,Pamela becker,Pharmacy,Individual ,Update Email,Registered
+135,2/20/2025,Vandy J Stone,Nursing,Individual ,Update Email,Registered
+136,2/20/2025,Benjamin sommer,Nursing,Individual ,License querries,Referred to board
+137,2/20/2025,Matthew D Goodwin,Chiropractic,Individual ,License querries,Referred to board
+138,2/20/2025,Keith konya,Nursing,Individual ,License querries,Referred to board
+139,2/20/2025,Linda Lee Shields,Nursing,Individual ,Update Email,Registered
+140,2/21/2025,Timothy Towers,Chiropractic,Individual ,License querries,Referred to board
+141,2/21/2025,Yasir Tashkandi,Physician,Individual ,Update Email,Registered
+142,2/21/2025,John Sheldon,Nursing,Individual ,License querries,Referred to board
+143,2/21/2025,Forest Tu Pavel,Pscycologist,Individual ,Update Email,Registered
+144,2/21/2025,Katherine M Ellermeier,Nursing,Individual ,Application issue,Resolved
+145,2/21/2025,Donna J Jones,Nursing,Individual ,Update Email,Registered
+146,2/21/2025,Donald roshan,Pharmacy,Individual ,Update Email,Registered
+147,2/21/2025,Mary Smith,Nursing,Individual ,Password reset,Resolved
+148,2/21/2025,Beverly A Williams,Nursing,Individual ,Update Email,Registered
+149,2/21/2025,James C Gray,Chiropractic,Individual ,Update Email,Registered
+150,2/21/2025,Tammy Edwards,Nursing,Individual ,Application issue,Resolved
+151,2/21/2025,Kelly bothe,Veterinary,Individual ,License querries,Referred to board
+152,2/25/2025,Ruth Thompson,Nursing,Individual ,Application issue,Resolved
+153,2/25/2025,Mohamed Kohia,Physician,Individual ,Update Email,Registered
+154,2/25/2025,Victoria H Wall,Nursing,Individual ,Update Email,Registered
+155,2/25/2025,Brenda akken,Nursing,Individual ,Walkthrough,Renewed
+156,2/25/2025,Caroline Margaret Stark,Dental,Individual ,Application issue,Resolved
+157,2/25/2025,Anthony Re Friedman,Real Estate,Business,Application issue,Resolved
+158,2/25/2025,Brent Wells,Healing Arts,Individual ,Update Email,Registered
+159,2/25/2025,Carlotta J Rottger,Nursing,Individual ,Walkthrough,Renewed
+160,2/25/2025,Jualiana ruhf,Pharmacy,Individual ,License querries,Referred to board
+161,2/25/2025,Frank Butler,Pharmacy,Individual ,Update Email,Registered
+162,2/25/2025,Candace Dee Wiseman,Nursing,Individual ,Update Email,Registered
+163,2/25/2025,Jennifer Kay Rackley,Nursing,Individual ,Update Email,Registered
+164,2/25/2025,Kathryn Ruth Taylor,Nursing,Individual ,Update Email,Registered
+165,2/25/2025,Jaime Leigh Harris,Nursing,Individual ,Update Email,Registered
+166,2/25/2025,Amy david,Massage,Business,License querries,Referred to board
+167,2/26/2025,Donna Jean Coonrod,Nurisng,Individual ,Update Email,Registered
+168,2/26/2025,Dana cain,Real Estate,Business,License querries,Referred to board
+169,2/26/2025,Jana L Kueck,Nursing,Individual ,Application issue,Resolved
+170,2/26/2025,Candace K Stokes,Nursing,Individual ,Update Email,Registered
+171,2/26/2025,Wendy K Umstattd,Nursing,Individual ,Update Email,Registered
+172,2/26/2025,Christopher Allen Green,Nursing,Individual ,Application issue,Resolved
+173,2/26/2025,Hannah Lynn Nelson,Nursing,Individual ,Update email,Registered
+174,2/26/2025,Ericka Whitney Pierce,Healing Arts,Individual ,Application issue,Resolved
+175,2/26/2025,Kevin J Burnside,Nursing,Individual ,Update Email,Registered
+176,2/27/2025,Bryant newsome,Pharmacy,Individual ,Update email,Registered
+177,2/27/2025,Alfredo,Nursing,Individual ,License querries,Referred to board
+178,2/27/2025,Ashley word,Nursing,Individual ,Password reset,Resolved
+179,2/27/2025,Michael R Emery,Chiropractic,Business,Update Email,Registered
+180,2/27/2025,Melissa Ann Davis,Nursing,Individual ,Update email,Registered
+181,2/27/2025,Brian Donald Mosier,Nursing,Individual ,Walkthrough,Renewed
+182,2/27/2025,Jodi oglesdy,Healing Arts,Individual ,Walkthrough,Renewed
+183,2/27/2025,Brandy hentschel,Nursing,Individual ,Application issue,Resolved
+184,2/27/2025,John Patrick Fickel,Architect,Individual ,Password reset,Resolved
+185,2/27/2025,Pamela Holmes,Nursing,Individual ,License querries,Referred to board
+186,2/27/2025,Marcella M Schaeffer,Nursing,Individual ,Update Email,Registered
+187,2/27/2025,Morgan Diehl,Healing Arts,Individual ,Application issue,Registered
+188,2/27/2025,Cynthia parks,Tattoingo,Business,License querries,Referred to board
+189,2/27/2025,Kalene bagwell,Pharmacy,Individual ,Update Email,Registered
+190,2/28/2025,Diane Lynn McCance,Nursing,Individual ,Application issue,Resolved
+191,2/28/2025,Kevin Shawn Coffman,Nursing,Individual ,Update Email,Registered.
+192,2/28/2025,Rana Baydoun,Pharmacy,Individual ,Password reset,Resolved
+193,2/28/2025,Anthony Re Friedman,Broker,Business,Application issue,Resolved
+194,2/28/2025,Lisa R Reno,Nursing,Individual ,Update Email,Registered
+195,2/28/2025,Randie Leigh Smith Breeze,Nursing,Individual ,Password reset,Resolved
+196,2/28/2025,Asif Anwer,Pharmacy,Individual ,Application issue,Resolved
+197,2/28/2025,Andrei Mugurel Staicu,Cosmetology,Individual ,Application issue,Resolved
+198,3/3/2025,Joanne bryson,Cosmetology,Business,License querries,Referred to board
+199,3/3/2025,Craig kuchera,Real Estate,Business,License querries,Referred to board
+200,3/3/2025,Bonnie David,Cosmetology,Individual ,Application issue,Resolved
+201,3/3/2025,Christina David,Nursing,Individual ,Update Email,Registered
+202,3/3/2025,Mary,Cosmetology,Individual ,Password reset,Resolved
+203,3/3/2025,Miriam Scott,Nursing,Individual ,Update Email,Registered
+204,3/3/2025,Karen Marie Seay,Nursing,Individual ,Update Email,Registered
+205,3/3/2025,Denise Goodmon,Pharmacy,Individual ,Update Email,Registered
+206,3/3/2025,Donna,Nursing,Individual ,Password reset,Resolved
+207,3/3/2025,William Milton Strunk II,Dental,Individual ,Update Email,Registered
+208,3/3/2025,Sheila Lynn Hodge,Cosmetology,Individual ,Update Email,Registered
+209,3/3/2025,Connie Fisher,Nursing,Individual ,Update Email,Registered
+210,3/3/2025,Shylena Jean Parkison,Nursing,Individual ,Update Email,Registered
+211,3/3/2025,Paul Thomas Kasunic,Physician,Individual ,Update Email,Registered
+212,3/3/2025,Stephanie Lynn Seidl,Nursing,Individual ,Update email,Registered
+213,3/3/2025,Jennifer Kay Rackley,Nursing,Individual ,Update email,Registered
+214,3/3/2025,Terry S Hoyt,Physician,Individual ,License querries,Referred to board
+215,3/3/2025,Rebecca Anahi Carbonell,Nursing,Individual ,Update Email,Registered
+216,3/3/2025,Angie taylor,Cosmetology,Business,Application issue,Referred to board
+217,3/3/2025,Diane B Corriveau,Nursing,Individual ,Update Email,Registered
+218,3/4/2025,Chris Marian,Veterinary,Business,License querries,Referred to board
+219,3/4/2025,Amanda Lee Regen,Physcian,Individual ,Update Email,Registered
+220,3/4/2025,Tamara L Bowler,Nursing,Individual ,Update Email,Registered
+221,3/4/2025,Crystal Lee Craig,Nursing,Individual ,Update Email,Registered
+222,3/4/2025,Juanita A Chavez,Healing Arts,Individual ,Update Email,Registered
+223,3/4/2025,Faith A Hibschle,Nursing,Individual ,Update Email,Registered
+224,3/4/2025,Tameeka Shawntai Moses-Wash,Nursing,Individual ,Application issue,Resolved
+225,3/4/2025,Rebecca S Shultz,Nursing,Individual ,Update Email,Registered
+226,3/4/2025,Casey goetz,Physician,Individual ,Update Email,Registered
+227,3/4/2025,James Daniel Hannah,Physician,Individual ,Application issue,Resolved
+228,3/4/2025,Molly E Reynolds,Tattoing,Business,Update Email,Registered
+229,3/4/2025,Amy Vanover,Nursing,Individual ,Application issue,Resolved
+230,3/4/2025,Darrel Hopkins,Healing Arts,Individual ,Password reset,Resolved
+231,3/4/2025,Ellen Leevon Wilborn,Real Estate ,Business,Walkthrough,Renewed
+232,3/4/2025,Tracy Lynn Nienhaus,Cosmetology,Individual ,Update Email,Registered
+233,3/4/2025,Lindsay Marie Smith,Speech Language,Individual ,Application issue,Resolved
+234,3/4/2025,Kayla Marie Perniciaro,Physician,Individual ,Update Email,Registered
+235,3/4/2025,Merinda Fay Crigler,Nursing,Individual ,Update Email,Registered
+236,3/5/2025,Cornelison,Cosmetology,Business,Update Email,Registered
+237,3/5/2025,Janice K McGovney,Healing Arts,Individual ,Update Email,Registered
+238,3/5/2025,Renee Naucke,Veterinary,Business,Update Email,Registered
+239,3/5/2025,Alan E Bauman,Physician,Individual ,Update Email,Registered
+240,3/5/2025,Lori K Williams,Pharmacy,Individual ,Update Email,Registered
+241,3/5/2025,Brenda smith,Nursing,Individual ,Walkthrough,Renewed
+242,3/5/2025,Lauren helnut,Cosmetology,Business,Application issue,Resolved
+243,3/5/2025,Lindsay Marie Smith,Nursing,Individual ,Application issue,Resolved
+244,3/5/2025,Janice Ann Henderson,Cosmetology,Individual ,Update Email,Registered
+245,3/5/2025,St.Luke Hospital,Nursing,Individual ,License querries,Referred to board
+246,3/5/2025,Deborah J Kenady,Cosmetology,Individual ,Password reset,Resolved
+247,3/5/2025,Lauri A Bonjour,Nursing,Individual ,Update Email,Registered
+248,3/5/2025,Ruby E Wilhite,Real estate,Business,Update Email,Registered
+249,3/5/2025,Tom Kenady,Nursing,Individual ,Application issue,Resolved
+250,3/5/2025,Andrew Bain,Nursing,Individual ,Update Email,Registered
+251,3/5/2025,Lisa mcneeley,Cosmetology,Business,Application issue,Resolved
+252,3/5/2025,Arielle Elizabeth Davis,Nursing,Individual ,Update Email,Registered
+253,3/5/2025,Karen F Barney,Physician,Individual ,Update Email,Registered
+254,3/5/2025,Fonda L Perkins,Nursing,Individual ,Update Email,Registered
+255,3/5/2025,Corinne P Werner,Nursing,Individual ,Update Email,Registered
+256,3/5/2025,Hannibal health,Nursing,Individual ,Application issue,Resolved
+257,3/5/2025,Andrea Marie Meyer,Cosmetology,Individual ,Update Email,Registered
+258,3/5/2025,Sarah Elizabeth Hutchison,Nursing,Individual ,Update Email,Registered
+259,3/5/2025,Sandra R Jemison,Nursing,Individual ,Update Email,Registered
+260,3/5/2025,Sarah Jones,Engineer,Individual ,License querries,Referred to board
+261,3/5/2025,Mary B Carpentier,Cosmetology,Individual ,Update Email,Registered
+262,3/5/2025,Mary Beth Murphy,Physician,Individual ,Update Email,Registered
+263,3/5/2025,Eldon Repsher,Physician,Individual ,Update Email,Registered
+264,3/5/2025,Gary A Ratkin,Physician,Individual ,Update Email,Registered
+265,3/5/2025,Jodi L Vossen,Nursing,Individual ,Update Email,Registered
+266,3/5/2025,Lynne L Timmermann,Cosmetology,Individual ,Update Email,Registered
+267,3/5/2025,Stephan reed,Nursing,Individual ,License querries,Referred to board
+268,3/5/2025,Pamela Jo Hutchinson,Veterinary,Business,Update Email,Registered
+269,3/5/2025,Beverly M Payton,Nursing,Individual ,Update Email,Registered
+270,3/5/2025,Theresa M Stearns,Nursing,Individual ,Update Email,Registered
+271,3/6/2025,Bonita E Buhr,Nursing,Individual ,Password reset,Resolved
+272,3/6/2025,Traci A Tyler,Nursing,Individual ,Update Email,Registered
+273,3/6/2025,Linda D Clifford,Cosmetology,Individual ,Update Email,Registered
+274,3/6/2025,Steven meachan,Healing Arts,Individual ,Password reset,Resolved
+275,3/6/2025,Amin karadaghy,Veterinary,Individual ,Update Email,Registered
+276,3/6/2025,Debra rose,Real Estate,Business,Application issue,Resolved
+277,3/6/2025,Ma Felyn Villavicencio Jucaban,Nursing,Individual ,Application issue,Resolved
+278,3/6/2025,Jennifer L Mathis,Nursing,Individual ,Update Email,Registered
+279,3/6/2025,Jesse Kate Walsh,Nursing,Individual ,Password reset,Resolved
+280,3/6/2025,Kristin neuhauser,Nursing,Individual ,Update Email,Registered
+281,3/6/2025,Lisa Susan Hellmann,Nursing,Individual ,Update Email,Registered
+282,3/6/2025,Kimberlyn D Jordan,Nursing,Individual ,Update Email,Registered
+283,3/6/2025,Deborah A Speiser,Nursing,Individual ,Password reset,Resolved
+284,3/6/2025,Christine R Allenbrand,Nursing,Individual ,Update Email,Registered
+285,3/6/2025,Yansoun Elmasry,"Physician,MD",Individual ,Update Email,Registered
+286,3/6/2025,Orrice Lamont Stanback,Cosmetology,Business,Password reset,Resolved
+287,3/6/2025,Johanna Martha Riggs,Nursing,Individual ,Update Email,Registered
+288,3/6/2025,Katylene edmond,Cosmetology,Individual ,Application issue,Resolved
+289,3/6/2025,Mary Ellen Snelling,Cosmetology,Individual ,Update Email,Registered
+290,3/6/2025,Danie Lyn Brandon,Nursing,Individual ,Update Email,Registered
+291,3/6/2025,Amanda Leigh Tucker,Nursing,Individual ,Update Email,Registered
+292,3/6/2025,Anna hailey,Cosmetology,Business,License querries,Referred to board
+293,3/7/2025,Sherry A Roy,Cosmetology,Individual ,Update Email,Registered
+294,3/7/2025,Orrice Lamont Stanback,Cosmetology,Individual ,Application issue,Resolved
+295,3/7/2025,Yansoun Elmasry,Nursing,Individual ,Password reset,Resolved
+296,3/7/2025,Joan MT Collison,Physician,Individual ,Update Email,Registered
+297,3/7/2025,Cathy jackson,Nursing,Individual ,Update Email,Registered
+298,3/7/2025,Peggy Jane Mulvania,Nursing,Individual ,Update Email,Registered
+299,3/7/2025,Tameeka Shawntai Moses-Wash,Nursing,Individual ,Application issue,Resolved
+300,3/7/2025,Jeanne G Byerly,Healing Arts,Individual ,Update Email,Registered
+301,3/7/2025,Julie Gwyn Neer,Pharmacy,Individual ,Update Email,Registered
+302,3/7/2025,Cynthia Sue Copeland,Nursing,Individual ,Update Email,Registered
+303,3/7/2025,Heather Michelle Hanono,Cosmetology,Business,License Querries,Referred to board
+304,3/7/2025,Mary B Scherer,Nursing,Individual ,Update Email,Registered
+305,3/7/2025,Not reachable,Cosmetology,Individual ,Update Email,Registered
+306,3/7/2025,Valerie M Jenkins,Nursing,Individual ,Update Email,Registered
+307,3/7/2025,Irina Khariton,Psychologist,Individual ,Update Email,Registered
+308,3/7/2025,Jessica R Harmon,Pharmacy,Individual ,Update Email,Registered
+309,3/7/2025,Loretta Ciuffa,Cosmetology,Individual ,License Querries,Referred to board
+310,3/7/2025,Lana M Carman,Pharmacy,Individual ,Update Email,Registered
+311,3/7/2025,V Gisele McGaughy,Physician,Individual ,Update Email,Registered
+312,3/7/2025,Stephanie M Jones,Nursing,Individual ,Update Email,Registered
+313,3/7/2025,Steven R Ballard,Nursing,Individual ,Update Email,Registered
+314,3/10/2025,Roxanne Starr Greer,Nursing,Individual ,Update Email,Registered
+315,3/10/2025,Tami A Trabue,Nursing,Individual ,Update Email,Registered
+316,3/10/2025,Karen M Siemer,Nursing,Individual ,Update Email,Registered
+317,3/10/2025,Angela S Constant,Cosmetology,Individual ,Password reset,Resolved
+318,3/10/2025,Joseph P Blessing,Nursing,Individual ,Update Email,Registered
+319,3/10/2025,Geralin S Forster,Nursing,Individual ,Update Email,Registered
+320,3/10/2025,Maitri Sanjaykumar Makwana,Physician,Individual ,Application issue,Resolved
+321,3/10/2025,Wendell Becton,Physician,Individual ,Update Email,Registered
+322,3/10/2025,Kyndall Werner,Real Estate,Business,License Querries,Referred to board
+323,3/10/2025,Kathleen A McCune,Veterinary,Individual ,Update Email,Registered
+324,3/10/2025,Chris Jordan,Healing Arts,Individual ,Update Email,Registered
+325,3/10/2025,Application not loading,Engineer,Individual ,Application issue,Resolved
+326,3/10/2025,Joy L Overmann,Physician,Individual ,Update Email,Registered
+327,3/10/2025,Jenifer Dawnn Purvis,Nursing,Individual ,Update Email,Registered
+328,3/10/2025,Becky S Streeter,Physician,Individual ,Update Email,Registered
+329,3/10/2025,Mary C Hanne,Nursing,Individual ,Update Email,Registered
+330,3/10/2025,Brenda Hyde,Nursing,Individual ,Application issue,Resolved
+331,3/10/2025,Application walkthrough,Nursing,Individual ,Update Email,Renewed
+332,3/10/2025,Deborah J Wolff,Nursing,Individual ,Password reset,Registered
+333,3/10/2025,Byron Stevens,Physician,Individual ,License Querries,Referred to Board
+334,3/10/2025,Darrel Stabin,Healing Arts,Individual ,Application issue,Resolved
+335,3/10/2025,Kanwaljit S Bhangu,Pharmacy,Individual ,Update Email,Registered
+336,3/11/2025,Rachelle Bishop,Nursing,Individual ,Update Email,Registered
+337,3/11/2025,Sharon K Short,Nursing,Individual ,Application issue,Resolved
+338,3/11/2025,Joshua sharp,Pharmacy,Individual ,Update Email,Registered
+339,3/11/2025,Kyndall Werner,Pharmacy,Individual ,Application issue,Resolved
+340,3/11/2025,Jacquelyn Nikol Blake,Nursing,Individual ,Update Email,Registered
+341,3/11/2025,Loretta,Nursing,Individual ,Application issue,Registered
+342,3/11/2025,Anette L Gettinger,Nursing,Individual ,Update Email,Registered
+343,3/11/2025,Allison Englander,Nursing,Individual ,Update Email,Registered
+344,3/11/2025,Ashley A Hercules,Nursing,Individual ,Password reset,Resolved
+345,3/11/2025,Sharon H Gray,Nursing,Individual ,Update Email,Registered
+346,3/11/2025,Judith Ellen Chapman,Nursing,Individual ,Update Email,Registered
+347,3/11/2025,Kathryn Welch,Social worker,Individual ,Update Email,Registered
+348,3/11/2025,Dana L Worley,Nursing,Individual ,Update Email,Registered
+349,3/11/2025,Barbara Marie Bardle,Dietician,Individual ,Update Email,Registered
+350,3/11/2025,Kristina Marie Drewing,Pharmacy,Individual ,Update Email,Registered
+351,3/11/2025,Constance W Williams,Nursing,Individual ,Update Email,Registered
+352,3/11/2025,Crestina Alida Pacheco,Nursing,Individual ,Update Email,Registered
+353,3/12/2025,Tyson Scott Cason,Nursing,Individual ,Update Email,Registered
+354,3/12/2025,Tammy Shim Sonn,Real Estate,Business,Update Email,Registered
+355,3/12/2025,Joseph E Whitlow,Nursing,Individual ,Password reset,Resolved
+356,3/12/2025,Benjamin Gregory Tlapek,Nursing,Individual ,Update Email,Registered
+357,3/12/2025,Wendy Deann Sample,Nursing,Individual ,Update Email,Registered
+358,3/12/2025,Chris Horton,Nursing,Individual ,Update Email,Registered
+359,3/12/2025,Tina zayakias,Physician,Individual ,License Querries,Referred to board
+360,3/12/2025,Wendy Christine Green,Nursing,Individual ,Update Email,Registered
+361,3/12/2025,Donna K Morgan,Cosmetology,Individual ,Update Email,Registered
+362,3/12/2025,Tina Marie Glenn,Nursing,Individual ,Update Email,Registered
+363,3/12/2025,Anthony T Kaczmarek,Nursing,Individual ,Update Email,Registered
+364,3/12/2025,A A Zimmerman,anasthesialogist,Individual ,Update Email,Registered
+365,3/12/2025,Sandra Lynne Boone,Cosmetology,Individual ,Update Email,Registered
+366,3/12/2025,Kyndall Werner,Cosmetology,Individual ,License Querries,Referred to board
+367,3/12/2025,Timothy James Wicks,Nursing,Individual ,Update Email,Registered
+368,3/12/2025,Elizabeth A Dumey,Nursing,Individual ,Password reset,Resolved
+369,3/12/2025,Jenifer shannah,Nursing,Individual ,Walkthrough,Renewed
+370,3/12/2025,Christopher Dyson-Coope,Real Esatate,Business,Update Email,Registered
+371,3/12/2025,Tracy J Frese,Nursing,Individual ,Walkthrough,Renewed
+372,3/13/2025,Amy doneoson,Nursing,Individual ,Walkthrough,Renewed
+373,3/13/2025,Dorathy robinson,Healing Arts,Individual ,Update Email,Registered
+374,3/13/2025,Stephan cauton,Real Estate,Individual ,Update Email,Registered
+375,3/13/2025,Jean Renee Glass,Nursing,Individual ,Update Email,Registered
+376,3/13/2025,Anthony T Kaczmarek,Veterinary,Business,Update Email,Registered
+377,3/13/2025,Eileen M Carey,Nursing,Individual ,Update Email,Registered
+378,3/13/2025,Erica parker,Nursing,Individual ,Password reset,Resolved
+379,3/13/2025,Carolyn E Mcginnis,Nursing,Individual ,Application issue,Resolved
+380,3/13/2025,Deanna jones,Cosmetology,Business,License querries,Referred to board
+381,3/13/2025,Linda K England,Pharmacy,Individual ,Update Email,Registered
+382,3/13/2025,Martin Eugene White,Nursing,Individual ,Update Email,Registered
+383,3/12/2025,Kyndall Werner,Cosmetology,Individual ,License querries,Referred to board
+384,3/13/2025,Ryan Matthew Havey,Tattoingo,Individual ,Update Email,Registered
+385,3/13/2025,Morgan Danielle Andrews,Massage,Individual ,Update Email,Registered
+386,3/13/2025,Rhonda L Burgett,Funeral Director,Individual ,Update Email,Registered
+387,3/13/2025,Anna Victoria Robinson,Nursing,Individual ,Application issue,Resolved
+388,3/13/2025,Patricia A Patton Anderson,Nursing,Individual ,Update email,Registered
+389,3/13/2025,Kathryn Sue Mullins,Physician,Individual ,Walkthrough,Renewed
+390,3/14/2025,Tonia Bradley-Cooley,Healing Arts,Individual ,Update Email,Registered
+391,3/14/2025,Troy Grant Scheuermann,Nursing,Individual ,Update Email,Registered
+392,3/14/2025,Angela berandzen,Real Estate,Business,Password reset,Resolved
+393,3/14/2025,Halle monarrez,Nursing,Individual ,Walkthrough,Renewed
+394,3/14/2025,Regine E Politte,Nursing,Individual ,Password reset,Resolved
+395,3/14/2025,Alice R Quesenberry,Nursing,Individual ,Application issue,Resolved
+396,3/14/2025,Jordan william,Nursing,Individual ,Password reset,Resolved
+397,3/14/2025,Eilleen randall,Physician,Individual ,Update Email,Registered
+398,3/14/2025,Colleen Marie Grunwald,Cosmetology,Individual ,Password reset,Resolved
+399,3/14/2025,Wendy wilson,Real Estate,Individual ,License querries,Referred to board
+400,3/14/2025,James Arthur Michaud II,Nursing,Individual ,Update Email,Registered
+401,3/14/2025,Elizabeth A Banzet,Healing Arts,Individual ,Update Email,Registered
+402,3/14/2025,Nancy Scott,Nursing,Individual ,Update Email,Registered
+403,3/14/2025,Mary A Williams,Compact,Individual ,Password reset,Resolved
+404,3/17/2025,Lori J Carpenter,Pharmacy,Individual ,Update Email,Registered
+405,3/17/2025,Sarah Marie Stock,Nursing,Individual ,Update Email,Registered
+406,3/17/2025,Nancy Scott,Nursing,Individual ,Update Email,Registered
+407,3/17/2025,Roberta Hartman,Cosmetolgy,Individual ,Update Email,Registered
+408,3/17/2025,Christopher Robbins,Cosmetolgy,Individual ,Update Email,Registered
+409,3/17/2025,Bonnie Margaret Todd,Nursing,Individual ,License querries,Referred to board
+410,3/17/2025,Melissa Susanne Williamson,Nursing,Individual ,Update Email,Registered
+411,3/17/2025,Joy Nwamaka Ekekezie,Physician,Individual ,Application issue,Resolved
+412,3/18/2025,Terrance S Smith,Pharmacy,Individual ,Update Email,Registered
+413,3/18/2025,Tommy Nguyen,Cosmetology,Individual ,Update Email,Registered
+414,3/18/2025,Michelle,Nursing,Individual ,Walkthrough,Renewed
+415,3/18/2025,Linda D Kratky,Cosmetology,Individual ,Update Email,Registered
+416,3/18/2025,Donald W Gray,Pharmacy,Individual ,Update Email,Registered
+417,3/18/2025,Kelly horn,Pharmacy,Individual ,Application issue,Resolved
+418,3/18/2025,Natalya V Antonov,Nursing,Individual ,Update Email,Registered
+419,3/18/2025,Susie June Anderson,Nursing,Individual ,Password reset,Resolved
+420,3/18/2025,Tamara J Koenig,Nursing,Individual ,Update Email,Registered
+421,3/18/2025,Debra A Gutzmer,Nursing,Individual ,Update Email,Registered
+422,3/18/2025,Alyssa Koeller,Physician,Individual ,Update Email,Registered
+423,3/18/2025,Patricia Ann Wright,Nursing,Individual ,Update Email,Registered
+424,3/18/2025,Elena L May,Nursing,Individual ,Walkthrough,Renewed
+425,3/18/2025,David Allen Powell,Cosmetology,Business,Update Email,Registered
+426,3/18/2025,Susan M Carver,Tattoing,Individual ,Update Email,Registered
+427,3/18/2025,Kathryn Faye Molica,Nursing,Individual ,Update Email,Registered
+428,3/19/2025,Kimberly J Graf,Nursing,Individual ,Update Email,Registered
+429,3/19/2025,Carolyn M Akins,Nursing,Individual ,Update Email,Registered
+430,3/19/2025,Lois pirtle,Nursing,Individual ,Licence querries,Referred to board
+431,3/19/2025,Kristen Jeanelle Wilkerson,Pharmacy,Individual ,Update Email,Registered
+432,3/19/2025,Mazyar Moshiri,Physician,Individual ,Update Email,Registered
+433,3/19/2025,Michael R Moore,Massage,Business,Update Email,Registered
+434,3/19/2025,Rhonda Gail Parrott,Pharmacy,Individual ,Update Email,Registered
+435,3/19/2025,Damon Michael Heybrock,Healing Arts,Individual ,Update Email,Registered
+436,3/19/2025,Ami Marie Keltner,Nursing,Individual ,Update Email,Registered
+437,3/19/2025,Darlene F Winch,Nursing,Individual ,Walkthrough,Renewed
+438,3/19/2025,Christopher Rollin Cooper,Pharmacy,Individual ,Application issue,Resolved
+439,3/19/2025,Brandon Scott Purtle,Nursing,Individual ,Password reset,Resolved
+440,3/19/2025,Donna Jean Stueve,Nursing,Individual ,Update Email,Registered
+441,3/19/2025,Patricia A Bernal,Cosmetology,Individual ,Update Email,Registered
+442,3/19/2025,D J Freiner,Physician,Individual ,Update Email,Registered
+443,3/19/2025,Connie L Roberts,Nursing,Individual ,Update Email,Registered
+444,3/20/2025,Aron kabala,Nursing,Individual ,License querries,Referred to board
+445,3/20/2025,Couldn't reach,Nursing,Individual ,Password reset,Resolved
+446,3/20/2025,Sheila Glenn-Whitford,Nursing,Individual ,Update Email,Registered
+447,3/20/2025,Diane Louise Ford,Pharmacy,Individual ,Update Email,Registered
+448,3/20/2025,Deanna Marie Schoen,Cosmetology,Individual ,Update Email,Registered
+449,3/20/2025,Douglas David Corbett,Pharmacy,Individual ,Update Email,Registered
+450,3/20/2025,Staci Renne Ferrell,Cosmetology,Individual ,Update Email,Registered
+451,3/20/2025,Gale Joseph,Nursing,Individual ,Update Email,Registered
+452,3/20/2025,Kyndall Werner,Cosmetology,Business,Application issue,Resolved
+453,3/20/2025,Kimberly M Brown,Funeral,Individual ,Update Email,Registered
+454,3/20/2025,Sharay A Sanders,Pharmacy,Individual ,Update Email,Registered
+455,3/20/2025,Laura Ann Tuttle,Nursing,Individual ,Update Email,Registered
+456,3/20/2025,Rochelle M Parker,Physican,Individual ,Update Email,Registered
+457,3/20/2025,George H Moon,Nursing,Individual ,Update Email,Registered
+458,3/20/2025,Dallas J Wilson,Veterinary,Individual ,Application issue,Resolved
+459,3/20/2025,John A Davidson,Physician,Individual ,Update Email,Registered
+460,3/20/2025,David P Diemer,Physician,Individual ,Update Email,Registered
+461,3/20/2025,Frances Margaret Soto,Healing Arts,Individual ,Application issue,Resolved
+462,3/21/2025,Lorie Lee Morton,Pharmacy,Individual ,Update Email,Registered
+463,3/21/2025,Nozaina Khawar,Speech Language,Individual ,Update Email,Registered
+464,3/21/2025,Mary Ann Lewis,Nursing,Individual ,Update Email,Registered
+465,3/21/2025,Amber L McFarland,Cosmetology,Individual ,Update Email,Registered
+466,3/21/2025,Monique Claudine Greer,Pharmacy,Individual ,Update Email,Registered
+467,3/21/2025,Barbara bank,Nursing,Individual ,Application issue,Resolved
+468,3/21/2025,Beryl Denise Browning,Nursing,Individual ,License querries,Referred to board
+469,3/21/2025,Darliene kernan,Nursing,Individual ,Application issue,Resolved
+470,3/21/2025,Marsha Sue Glenn,Pharmacy,Individual ,Update Email,Registered
+471,3/24/2025,Surender Kurapati,Radiologist,Individual ,Update Email,Registered
+472,3/24/2025,Kathleen A Mitchell,Physician,Individual ,Update Email,Registered
+473,3/24/2025,Margaret Ann Catanzaro,Engineer,Individual ,Update Email,Registered
+474,3/24/2025,Oritsetimeyin Elizabeth Otubu-Scipio,Physician,Individual ,Update Email,Registered
+475,3/24/2025,Sadathulla Shareef,Massage,Individual ,Application issue,Resolved
+476,3/24/2025,Barbara Ann Hampton,Pharmacy,Individual ,Password reset,Resolved
+477,3/24/2025,Robert hale,Healing Arts,Individual ,License querries,Referred to board
+478,3/24/2025,Residence student,Physician,Individual ,Application issue,Resolved
+479,3/24/2025,Terrance Smith,Nursing,Individual ,Application issue,Resolved
+480,3/24/2025,Renee C Hoyle,Nursing,Individual ,Update Email,Registered
+481,3/24/2025,Stephanie K Luter,Pharmacy,Individual ,License querries,Referred to board
+482,3/24/2025,Can't reach,Nursing,Individual ,Update Email,Registered
+483,3/24/2025,Todd A Shuman,Cosmetology,Individual ,Update Email,Registered
+484,3/24/2025,Margaret Hanser,Real Estate,Individual ,Update Email,Registered
+485,3/24/2025,Alyssa Mae Hammar,Physician,Individual ,Update Email,Registered
+486,3/25/2025,Donna Lynn Barns,Physician,Individual ,Password reset,Resolved
+487,3/25/2025,Brandon A Dunn,Cosmetology,Individual ,Update Email,Registered
+488,3/25/2025,LaVonda Vannette French,Pharmacy,Individual ,Password reset,Resolved
+489,3/25/2025,Katherine Carter Cloyd,Massage,Business,Update Email,Registered
+490,3/25/2025,Sandra K Adams,Nursing,Individual ,Update Email,Registered
+491,3/25/2025,Call from Pharmacy,Nursing,Individual ,Application issue,Resolved
+492,3/25/2025,Carla Kay Johnston,Pharmacy,Individual ,Update Email,Registered
+493,3/25/2025,Carol J Frerking,Cosmetology,Individual ,Update Email,Registered
+494,3/25/2025,Margarat glover,Nursing,Individual ,License querries,Referred to board
+495,3/25/2025,Ky Le,Dental,Individual ,Update Email,Registered
+496,3/25/2025,Shane wolf,Massage,Individual ,License querries,Referred to board
+497,3/25/2025,Abdullah Genc,Phsycatrist,Individual ,Update Email,Registered
+498,3/25/2025,Albert R Ulsas Jr,Pharmacy,Individual ,Update Email,Registered
+499,3/25/2025,Mary louis,Cosmetology,Individual ,Application issue,Resolved
+500,3/25/2025,Marilyn P Honeycutt,Nursing,Individual ,Update Email,Registered
+501,3/25/2025,Anita D Mullin,Massage,Individual ,Walkthrough,Renewed
+502,3/25/2025,Belinda Johnson,Healing Arts,Individual ,Walkthrough,Renewed
+503,3/25/2025,Karla S Meers,Nursing,Individual ,Application issue,Resolved
+504,3/25/2025,Leasa A Evans,Nursing,Individual ,Application issue,Resolved
+505,3/26/2025,Deborah K Crook,Nursing,Individual ,Update Email,Registered
+506,3/26/2025,Ronya Joyce Bowen,Pharmacy,Individual ,Walkthrough,Renewed
+507,3/26/2025,Samantha Hope Bensinger,Nursing,Individual ,Update Email,Registered
+508,3/26/2025,Larry P Reynolds,Real Estate,Business,Update Email,Registered
+509,3/26/2025,Kierra L Wright,Physician,Individual ,Update Email,Registered
+510,3/26/2025,Madelline,Real Estate,Individual ,Update Email,Registered
+511,3/26/2025,Laura A Padgett,Massage,Individual ,Update Email,Registered
+512,3/26/2025,Gavin Brown,Nursing,Individual ,Application issue,Resolved
+513,3/26/2025,Elaine,Pharmacy,Individual ,Walkthrough,Renewed
+514,3/26/2025,Deborah Irwin,Funeral Director,Individual ,Update Email,Registered
+515,3/26/2025,Patrick Irwin,Funeral Director,Individual ,Update Email,Registered
+516,3/26/2025,Ann Catherine Nobel,Real Estate,Business,Walkthrough,Renewed
+517,3/26/2023,Christopher D Fraley,Nursing,Individual ,Password reset,Resolved
+518,3/26/2025,Virginia Alice Bauler,Nursing,Individual ,Update Email,Registered
+519,3/26/2025,Lauren Bennett Copp,Nursing,Individual ,Password reset,Registered
+520,3/26/2025,Lorna Gail Davis,Pharmacy,Individual ,Application issue,Registered 
+521,3/26/2025,Maria Darris,Real Estate,Individual ,Update Email,Registered
+522,3/26/2025,Latasha bay,Cosmetology,Individual ,Update Email,Registered
+523,3/26/2025,Shamon williams,Real Estate,Individual ,Update Email,Registered
+524,3/26/2025,Prashanth jagtap,Nursing,Individual ,Update Email,Registered
+525,3/26/2025,Starla waller,Nursing,Individual ,Update Email,Registered
+526,3/27/2025,Caryl Hairston,Nursing,Individual ,Application Issue,Referred to board
+527,3/27/2025,Melissa Kennedy,Pharmacy,Individual ,Update Email,Registered
+528,3/27/2025,Rachel Nicole Feagans,Nursing,Individual ,Update Email,Registered
+529,3/27/2025,Jane F Roseberry,Nursing,Individual ,Update Email,Registered
+530,3/27/2025,Karen K Dovel,Healing Arts,Individual ,Update Email,Registered
+531,3/27/2025,Christin Alexander,Nursing,Individual ,Walkthrough,Renewed
+532,3/27/2025,Megan yonker,Real Estate,Business,Walkthrough,Renewed
+533,3/27/2025,Teresa Tatum,Nursing,Individual ,Password reset,Resolved
+534,3/27/2025,Pharmacy,Nursing,Individual ,License querries,Referred to board
+535,3/27/2025,Deb D Reitz,Nursing,Individual ,Application Issue,Resolved
+536,3/27/2025,Linda Sue Mccutcheon,Cosmetology,Individual ,Application Issue,Resolved
+537,3/27/2025,Amie Marie Tighe,Cosmetology,Individual ,Update Email,Registered
+538,3/27/2025,Pamela walker,Massage,Business,License querries,Referred to board
+539,3/27/2025,Tamera Lee Speer,Nursing,Individual ,Update Email,Registered
+540,3/28/2025,Jeri L Strathman,Nursing,Individual ,Update Email,Registered
+541,3/28/2025,Nicole Simone Nathan,Healing Arts,Individual ,Update Email,Registered
+542,3/28/2025,Kristen K Lee,Speech Language,Individual ,Update Email,Registered
+543,3/28/2025,Alisha carrow,Nursing,Individual ,Update Email,Registered
+544,3/28/2025,Vivian Virginia Brewer,Pharmacy,Individual ,Update Email,Registered
+545,3/28/2025,Londay swabeda,Nursing,Individual ,Walkthrough,Renewed
+546,3/28/2025,Wanda J West,Nursing,Individual ,Update Email,Registered
+547,3/28/2025,Dana Lynne Morris,Real Estate,Individual ,Update Email,Registered
+548,3/28/2025,Ivy rice,Healing Arts,Individual ,Walkthrough,Renewed
+549,3/28/2025,Sheryl Farmer,Massage,Business,Update Email,Registered
+550,3/28/2025,Terry Farmer,Nursing,Individual ,Update Email,Registered
+551,3/28/2025,Nikki Nichole Couey,Nursing,Individual ,Update Email,Registered
+552,3/28/2025,Robin Jean Fulkerson,Cosmetology,Individual ,Update Email,Registered
+553,3/31/2025,Toni mitchell,Nursing,Individual ,License querries,Referred to board
+554,3/31/2025,Brenda Lynn Wood,Nursing,Individual ,Update Email,Registered
+555,3/31/2025,Kerry K Reinhardt,Nursing,Individual ,Update Email,Registered
+556,3/31/2025,Laura A Wiegand,Pharmacy,Individual ,Update Email,Registered
+557,3/31/2025,Pamela mcdeniel,Nurisng,Individual ,Application Issue,Resolved
+558,3/31/2025,Patricia C O'Toole,Cosmetology,Individual ,Update Email,Registered
+559,3/31/2025,Rhonda,Nursing,Individual ,License querries,Referred to board
+560,3/31/2025,Judy wright,Nursing,Individual ,Application Issue,Resolved
+561,3/31/2025,Laura A Wiegand,Nursing,Individual ,Update Email,Registered
+562,3/31/2025,Colton,Massage,Business,Password reset,Resolved
+563,3/31/2025,Melissa Marie Chavarria,Nursing,Individual ,Update Email,Registered
+564,3/31/2025,Crystie Carol Smith,Nursing,Individual ,Application Issue,Resolved
+565,3/31/2025,Cyndy,Massage,Business,Application Issue,Resolved
+566,4/1/2025,Martin munn,Healing Arts,Individual ,Update Email,Registered
+567,4/1/2025,Juliana gillaspie,Real Estate,Business,Update Email,Registered
+568,4/1/2025,Mark Haneline,Nursing,Individual ,Update Email,Registered
+569,4/1/2025,Barbara A Rosenbloom,Nursing,Individual ,Application issue,Resolved
+570,4/1/2025,Kenneth Louis Everett,Nursing,Individual ,Update Email,Registered
+571,4/1/2025,Susan M Faerber,Nursing,Individual ,Update Email,Registered
+572,4/1/2025,Catherine,Nursing,Individual ,Application issue,Resolved
+573,4/1/2025,Charlise cole,Nursing,Individual ,Application issue,Resolved
+574,4/1/2025,Lennale Brown,Pharmacy,Individual ,License querries,Referred to board
+575,4/1/2025,Joyce Hudson Bell,Nursing,Individual ,Update Email,Registered
+576,4/1/2025,Carissa Nicole Heise,Real Estate,Individual ,Application issue,Resolved
+577,4/1/2025,Robin L Hathaway,Nursing,Individual ,Walkthrough,Renewed
+578,4/1/2025,Kathy A Helms,Nursing,Individual ,Application issue,Resolved
+579,4/2/2025,Mesha R Grimes,Nursing,Individual ,Password reset,Resolved
+580,4/2/2025,John garrey,Nursing,Individual ,Walkthrough,Renewed
+581,4/2/2025,Kristie Besore,Pharmacy,Individual ,Update Email,Registered
+582,4/2/2025,Debra hunter,Cosmetology,Individual ,Update Email,Registered
+583,4/2/2025,Karen Jackson,Nursing,Individual ,Application issue,Resolved
+584,4/2/2025,Barbara Blaue,Nursing,Individual ,Walkthrough,Renewed
+585,4/2/2025,Catherine Elizabeth Matthews,Counsellor,Individual ,Application issue,Resolved
+586,4/2/2025,Kimberly LeeAnn Keene,Nursing,Individual ,Update Email,Registered
+587,4/2/2025,Irma J Perkins,Nursing,Individual ,Application issue,Resolved
+588,4/2/2025,Michael mccan,Pharmacy,Individual ,Application issue,Resolved
+589,4/2/2025,Edward Patrick Kreulen,Nursing,Individual ,Update Email,Registered
+590,4/2/2025,Kaitlyn McKinzey Blanke,Real Estate,Business,License querries,Referred to board
+591,4/2/2025,Call back,Nursing,Individual ,Application issue,Resolved
+592,4/2/2025,Gloria N Miller,Pharmacy,Individual ,Update Email,Registered
+593,4/2/2025,Brigida B Puglisi,Cosmetology,Individual ,Update Email,Registered
+594,4/2/2025,Melissa A Colvin,Pharmacy,Individual ,Update Email,Registered
+595,4/2/2025,Helen hatton,Nursing,Individual ,Walkthrough,Renewed
+596,4/3/2025,Deborah J Rehagen,Cosmetology,Individual ,Update Email,Registered
+597,4/3/2025,Kimberly Dawn Kendrick,Nursing,Individual ,Update Email,Registered
+598,4/3/2025,Angela N Cheatham,Pharmacy,Individual ,Update Email,Registered
+599,4/3/2025,Emma P Garrison,Physician,Individual ,Update Email,Registered
+600,4/3/2025,Pattieaston,Nursing,Individual ,Application issue,Resolved
+601,4/3/2025,Glenn E Talboy Jr,Physician,Individual ,Update Email,Registered
+602,4/3/2025,Michelle L Solerto,Nursing,Individual ,Update Email,Registered
+603,4/3/2025,Hannah Marie Davison,Nursing,Individual ,Update Email,Registered
+604,4/3/2025,Linda Koon Diamond,Nursing,Individual ,Update Email,Registered
+605,4/3/2025,Fidell C Lartedale,Healing Arts,Individual ,Password reset,Resolved
+606,4/3/2025,Anna Jones-Finley,Nursing,Individual ,Update Email,Registered
+607,4/3/2025,Mary L Choate,Nursing,Individual ,Update Email,Registered
+608,4/3/2025,Crig,Nursing,Individual ,Application issue,Resolved
+609,4/3/2025,Maria Elizabth Jaime,Pharmacy,Individual ,Application issue,Resolved
+610,4/3/2025,Mya Gabriela De leon,Cosmetology,Individual ,Update Email,Registered
+611,4/3/2025,Julie M Allen,Physician,Individual ,Update Email,Registered
+612,4/3/2025,Jill Renee Owens,Nursing,Individual ,Password reset,Resolved
+613,4/3/2025,Loreen M Crockett,Nursing,Individual ,Password reset,Resolved
+614,4/3/2025,Rebecca Lynn Warner,Pharmacy,Individual ,Update Email,Registered
+615,4/4/2025,Eddie Wesch,Cosmetology,Business,Application issue,Resolved
+616,4/4/2025,Vanessa Youngblood,Cosmetology,Individual ,Update Email,Registered
+617,4/4/2025,Betty gipson,Pharmacy,Individual ,Application issue,Resolved
+618,4/4/2025,Pamela hertzig,Nursing,Individual ,License querries,Referred to board
+619,4/4/2025,Daniel Batayola Quiton,Nursing,Individual ,Application issue,Resolved
+620,4/4/2025,cheryl combs,Nursing,Individual ,Application issue,Resolved
+621,4/4/2025,Pattieaston,Nursing,Individual ,Walkthrough,Renewed
+622,4/4/2025,Amy Michelle Leins,Real Estate,Business,Application issue,Resolved
+623,4/4/2025,Gloria washburn,Healing Arts,Individual ,Update Email,Registered
+624,4/4/2025,Sarah osehe,Healing Arts,Individual ,Walkthrough,Renewed
+625,4/4/2025,Logan Wendell Johnson,Cosmetology,Individual ,Application issue,Resolved
+626,4/4/2025,Kimberly Lynn Gabriel-Diaz,Nursing,Individual ,Update Email,Registered
+627,4/4/2025,Jeff D Zuptich,Real Estate,Individual ,Update Email,Registered
+628,4/4/2025,Deanna robinson,Nursing,Individual ,Application issue,Resolved
+629,4/4/2025,Alisha edwords,Nursing,Individual ,Walkthrough,Renewed
+630,4/4/2025,Sarah muegge,Nursing,Individual ,Update Email,Registered
+631,4/4/2025,Amanda K Usery,Nursing,Individual ,Update Email,Registered
+632,4/4/2025,Jeannine Cross,Nursing,Individual ,Application issue,Resolved
+633,4/4/2025,Kelly bentson,Physician,Individual ,Application issue,Resolved
+634,4/7/2025,Yulia E Krishtal,Nursing,Individual ,Password reset,Resolved
+635,4/7/2025,Patricia Daus,Physician,Individual ,Update Email,Registered
+636,4/7/2025,Ronald S Koelliker,Nursing,Individual ,Update Email,Registered
+637,4/7/2025,Jamiel fletcher,Nursing,Individual ,Walkthrough,Renewed
+638,4/7/2025,Terry Wallace,Pharmacy,Individual ,Password reset,Resolved
+639,4/7/2025,Gina M Van Sickle,Nursing,Individual ,Update Email,Registered
+640,4/7/2025,Judith pearce,Nursing,Individual ,Walkthrough,Renewed
+641,4/7/2025,Judith M Mcghee,Nursing,Individual ,Update Email,Registered
+642,4/7/2025,Reginald J Householder,Nursing,Individual ,Password reset,Resolved
+643,4/7/2025,Anthony C Wallace,Pharmcy,Individual ,Update Email,Registered
+644,4/7/2025,Pattieson,Nursing,Individual ,Application issue,Resolved
+645,4/7/2025,Sarah A Thoenen,Nursing,Individual ,Walkthrough,Renewed
+646,4/7/2025,Krista Marie Smith,Pharmacy,Individual ,Application issue,Resolved
+647,4/7/2025,Lannah Rose Wimsatt,Cosmetology,Business,Application issue,Registered
+648,4/7/2025,Carol A Walker,Nursing,Individual ,Password reset,Resolved
+649,4/7/2025,Denise Ann Balken,Cosmetology,Individual ,Update Email,Registered
+650,4/7/2025,Andrea Clark,Veterinary,Individual ,Password reset,Resolved
+651,4/7/2025,Brinda harris,Nursing,Individual ,Update Email,Registered
+652,4/7/2025,Business account,Nursing,Individual ,License querries,Referred to board
+653,4/9/2025,Robert Brand,Nursing,Individual ,Update Email,Registered
+654,4/9/2025,Cheryl Dinning,Nursing,Individual ,Update Email,Registered
+655,4/9/2025,Camarie M Jones,Pharmacy,Individual ,Update Email,Registered
+656,4/9/2025,Anita Turek,Pharmacy,Individual ,Update Email,Registered
+657,4/9/2025,Christopher,Nursing,Individual ,Application issue,Resolved
+658,4/9/2025,Lori Ann Terranova,Nursing,Individual ,Password reset,Resolved
+659,4/9/2025,Jennifer A Beffa,Counselor,Individual ,Update Email,Registered
+660,4/9/2025,Betty J Novak,Nursing,Individual ,Update Email,Registered
+661,4/9/2025,William R Parker,Pharmacy,Individual ,Update Email,Registered
+662,4/9/2025,Margo crawley,Healing Arts,Individual ,Application issue,Resolved
+663,4/9/2025,Denise L German,Real Estate,Individual ,Update Email,Registered
+664,4/9/2025,Jeffrey C Thompson,Physician,Individual ,Update Email,Registered
+665,4/9/2025,Harley Danielle Robertson,Nursing,Individual ,Update Email,Registered
+666,4/9/2025,Brnajmin somy,Nursing,Individual ,Walkthrough,Renewed
+667,4/9/2025,Carolyn Joyce Heimsoth,Pharmacy,Individual ,Update Email,Registered
+668,4/9/2025,Connie Marie Eckhoff,Pharmacy,Individual ,Update Email,Registered
+669,4/9/2025,Grant Riutta,Nursing,Individual ,Update Email,Registered
+670,4/9/2025,Cantice M Rosener,Nursing,Individual ,Update Email,Registered
+671,4/10/2025,Dan Moriarty,Pharmacy,Individual ,License querries,Referred to board
+672,4/10/2025,Kelly E Berry,Nursing,Individual ,UpdateEmail,Registered
+673,4/10/2025,Kaylle Jean Ramseier,Physician,Individual ,Application issue,Resolved
+674,4/10/2025,Pamela B Palmer,Nursing,Individual ,Application issue,Resolved
+675,4/10/2025,Kassey Christina Kenner,Nursing,Individual ,Update Email,Registered
+676,4/10/2025,Hannah Grace Armstrong,Nursing,Individual ,Update Email,Registered
+677,4/10/2025,Elaine ottenlips,Real Estate,Business,Walkthrough,Renewed
+678,4/10/2025,Michelle,Cosmetology,Business,Walkthrough,Renewed
+679,4/10/2025,Tania,Nursing,Individual ,Password reset,Resolved
+680,4/10/2025,Kristy E Neville,Physician,Individual ,Update Email,Registered
+681,4/10/2025,Lisa Dawn Tincher,Physician,Individual ,Application issue,Resolved
+682,4/10/2025,Lucy Wanjiku Waciuri,Nursing,Individual ,Update Email,Registered
+683,4/10/2025,Elizabeth K Kreminski,Healing Arts,Individual ,Update Email,Registered
+684,4/11/2025,Bhadra Dev Komarraju,Nursing,Individual ,License querries,Referred to board
+685,4/11/2025,William James Hendricks,Nursing,Individual ,Update Email,Registered
+686,4/11/2025,Sally A Fowles,Nursing,Individual ,Update Email,Registered
+687,4/11/2025,Elizabeth Kathleen Berdelle,Nursing,Individual ,Update Email,Registered
+688,4/11/2025,Jessica Eaton,Nursing,Individual ,Update Email,Registered
+689,4/11/2025,Alison Pate,Cosmetology,Individual ,Update Email,Registered
+690,4/11/2025,Montana Thompson,Nursing,Individual ,Password reset,Resolved
+691,4/11/2025,Emily Ranae Paschal,Social worker,Individual ,License querries,Referred to board
+692,4/11/2025,Sydney M Hunley,Nursing,Individual ,Update Email,Registered
+693,4/11/2025,Karen L Kasper,Nursing,Individual ,Walkthrough,Renewed
+694,4/11/2025,Judy R Rushton,Nursing,Individual ,Update Email,Registered
+695,4/11/2025,Margaret M Kues,Nursing,Individual ,Update Email,Registered
+696,4/11/2025,Called back - No Answer,Nursing,Individual ,Application issue,Resolved
+697,4/11/2025,Sandra K Carmack,Nursing,Individual ,Update Email,Registered
+698,4/11/2025,Maximillian James Hill Starr,Physician,Individual ,Update Email,Registered
+699,4/11/2025,Kaylynn Mary Greeling,Physician,Individual ,Application issue,Resolved
+700,4/11/2025,Crystal L Nofsinger,Counsellor,Individual ,Update Email,Registered
+701,4/14/2025,King Clinton,Cosmetology,Individual ,License querries,Referred to board
+702,4/14/2025,Raymond S Ricketts,Nursing,Individual ,Application issue,Resolved
+703,4/14/2025,Mallory E Patton,Nursing,Individual ,Update Email,Registerred
+704,4/14/2025,Riley Morrow,Physician,Individual ,License querries,Referred to board
+705,4/14/2025,Heather Maria West,Pharmacy,Individual ,Walkthrough,Renewed
+706,4/14/2025,Saundra overton,Nursing,Individual ,Walkthrough,Renewed
+707,4/14/2025,Ruth E Townley,Nursing,Individual ,Update email,Registered
+708,4/14/2025,Sia le,Cosmetology,Business,Application issue,Resolved
+709,4/14/2025,Kathey Williams Jewell,Nursing,Individual ,Update Email,Registered
+710,4/14/2025,Dody dawes,Nursing,Individual ,Password reset,Resolved
+711,4/14/2025,Samuel moll,Real Estate,Business,License querries,Referred to board
+712,4/15/2025,Elizabeth C Frost,Nursing,Individual ,Update Email,Registered
+713,4/15/2025,M. Jo Crouthers,Nursing,Individual ,Walkthrough,REn
+714,4/15/2025,Kathryn Cecilia Corbin,Counsellor,Individual ,Update Email,Registered
+715,4/15/2025,Sarah Louise McCreary,Nursing,Individual ,Walkthrough,Renewed
+716,4/15/2025,Rebecca A Ramsey,Nursing,Individual ,Walkthrough,Renewed
+717,4/15/2025,Monica Sue Brooker,Psychologist,Individual ,Application issue,Resolved
+718,4/15/2025,Suzanne E Coble,Nursing,Individual ,Update Email,Registered
+719,4/15/2025,Stephanie Renea Tackett,Nursing,Individual ,Password reset,Resolved
+720,4/15/2025,Conn Fikter,Nursing,Individual ,Application issue,Resolved
+721,4/15/2025,Shawn,Tattoing,Individual ,License querries,Referred to board
+722,4/15/2025,Anabel Cisneros Hernandez,Cosmetology,Individual ,Update Email,Registered
+723,4/15/2025,Carol A Tiemann,Nursing,Individual ,Update Email,Registered
+724,4/15/2025,Mailan T Nguyen,Tattoing,Individual ,Update Email,Registered
+725,4/15/2025,Lauren Lee Walker,Nursing,Individual ,Update Email,Registered
+726,4/15/2025,Carissa giano,Nursing,Individual ,Walkthrough,Renewed
+727,4/16/2025,Suzanne Renee Hunn,Real Estate,Individual ,Application issue,Resolved
+728,4/16/2025,Marina moore,Real Estate,Individual ,License querries,Referred to board
+729,4/16/2025,J.Clay McQuerry,Psychologist,Individual ,Application issue,Resolved
+730,4/16/2025,Joseph William Waltman Jr,Nursing,Individual ,Update Email,Registered
+731,4/16/2025,Margerett,Nursing,Individual ,Walkthrough,Renewed
+732,4/16/2025,Diala brown,Nursing,Individual ,Walkthrough,Renewed
+733,4/16/2025,Shannon K Stiles,Nursing,Individual ,Update Email,Registered
+734,4/16/2025,Sierra D Raney,Cosmetology,Individual ,Application issue,Resolved
+735,4/16/2025,Li Jun Huang,Massage,Business,Update Email,Registered
+736,4/16/2025,Elizabeth Ann Flynn,Nursing,Individual ,Walkthrough,Renewed
+737,4/16/2025,Kaeleigh Maree Sneed,Nursing,Individual ,Password reset,Resolved
+738,4/16/2025,Alexis M Simpson,Pharmacy,Individual ,License querries,Referred to board
+739,4/17/2025,Sarah J Foote,Nursing,Individual ,Update Email,Registered
+740,4/17/2025,Andrea C Reese,Nursing,Individual ,Update Email,Registered
+741,4/17/2025,Karen L Rupright,Nursing,Individual ,Walkthrough,Renewed
+742,4/17/2025,Sonya johnson,Cosmetolgy,Individual ,License querries,Referred to board
+743,4/18/2025,Wendy Carol Welsh,Pharmacy,Individual ,Application issue,Resolved
+744,4/18/2025,Riley,Pharmacy,Individual ,Application issue,Resolved
+745,4/18/2025,Erica Marie Paige Rodriguez,Nursing,Individual ,Update Email,Registered
+746,4/18/2025,Amanda johnson,Veterinary,Individual ,License querries,Referred to board
+747,4/18/2025,Cordell Fitch,Massage,Individual ,Update Email,Registered
+748,4/18/2025,Julie Chastain,Real Estate,Individual ,Application issue,Resolved
+749,4/18/2025,Lian Thalia,Real Estate,Individual ,Application issue,Resolved
+750,4/182025,Tabacha Forbach,Nursing,Individual ,Walkthrough,Renewed
+751,4/18/2025,Charlotte B Craig,Nursing,Individual ,Walkthrough,Renewed
+752,4/18/2025,Mathew pettit,Pharmacy,Individual ,Update Email,Registered
+753,4/18/2025,Cordell Fitch,Psychologist,Individual ,Update Email,Registered
+754,4/18/2025,Connie J Bolin,Nursing,Individual ,Application issue,Resolved
+755,4/18/2025,Susan K Mozaffari,Nursing,Individual ,Update Email,Registered
+756,4/18/2025,Daniel J Prost,Nursing,Individual ,Password reset,Resolved
+757,4/18/2025,Robin R Kroeger,Nursing,Individual ,Update Email,Registered
+758,4/18/2025,Susan M Anderson,Nursing,Individual ,Password reset,Resolved
+759,4/18/2025,Stephanie L Trussler,Nursing,Individual ,Update Email,Registered
+760,4/18/2025,Melissa Ann Falvey,Nursing,Individual ,Update Email,Registered
+761,4/18/2025,Colleen M Carruthers,Nursing,Individual ,Password reset,Resolved
+762,4/18/2025,Arthur A Bante,Nursing,Individual ,Update Email,Registered
+763,4/18/2025,Michael D Lake,Nursing,Individual ,Update Email,Registered
+764,4/18/2025,Stephen D Brooks,Nursing,Individual ,Password reset,Resolved
+765,4/18/2025,Janice M Gessel,Nursing,Individual ,Password reset,Resolved
+766,4/18/2025,James G Murray,Nursing,Individual ,Update Email,Registered
+767,4/18/2025,John R Lyngstad,Nursing,Individual ,Update Email,Registered
+768,4/18/2025,Steven J LoGrasso,Nursing,Individual ,Update Email,Registered
+769,4/21/2025,Cathy A Lange,Cosmetolgy,Individual ,Update Email,Registered
+770,4/21/2025,Ashley Suzanne Morrison,Nursing,Individual ,Update Email,Registered
+771,4/21/2025,Shelly RaeBlackington-Barr,Nursing,Individual ,Update Email,Registered
+772,4/21/2025,Jessica Nicole Isenhower,Nursing,Individual ,Update Email,Registered
+773,4/21/2025,Michael J Betley,Veterinary,Individual ,License querries,Referred to board
+774,4/21/2025,Mildred P Gipson,Pharmacy,Individual ,Update Email,Registered
+775,4/21/2025,Caleb J Stafford,Cosmetolgy,Business,Password reset,Resolved
+776,4/21/2025,Linda Ann Sloat,Pharmacy,Individual ,Update Email,Registered
+777,4/21/2025,Carol J Kern,Physician,Individual ,Update Email,Registered
+778,4/21/2025,Jody Leigh Golemon,Cosmetolgy,Business,Application issue,Resolved
+779,45768,Patricia A Kean,Nursing,Individual ,Application issue,Resolved
+780,45768,Linda Michelle Fields,Nursing,Individual ,Application issue,Resolved
+781,45768,Aldijana Sacic,Nursing,Individual ,Application issue,Resolved
+782,4/21/2025,Derek Lee Scott Williams,Nursing,Individual ,Application issue,Resolved
+783,45768,Helen R Race,Nursing,Individual ,Application issue,Resolved
+784,45768,Teresa A Sondermann,Nursing,Individual ,Application issue,Resolved
+785,4/22/2025,Dolores Ligeko,Cosmetology,Individual ,Update Email,Registered
+786,4/22/2025,Margaret A Williams,Nursing,Individual ,Update Email,Registered
+787,4/22/2025,Deanna L Bailey,Nursing,Individual ,Walkthrough,Renewed
+788,4/22/2025,Jadene R Corum,Nursing,Individual ,Update Email,Registered
+789,4/22/2025,Shelly Zimmerman,Veterinary,Individual ,License querries,Referred to board
+790,4/22/2025,Tracy picha,Pharmacy,Individual ,Application issue,Resolved
+791,45769,Ceryse Patricia Poland,Nursing,Individual ,Update Email,Registered
+792,45769,Grace Cusi,Physician,Individual ,Application issue,Resolved
+793,45769,Jessica Noel Walser,Nursing,Individual ,Application issue,Resolved
+794,45769,Amanda Rachel Sloniker,Nursing,Individual ,Application issue,Resolved
+795,45769,Michele C Marcus,Nursing,Individual ,Application issue,Resolved
+796,45769,Rosalie G Benz,Nursing,Individual ,Application issue,Resolved
+797,45769,Sandra L McCormick,Nursing,Individual ,Application issue,Resolved
+798,45769,Waltina J Kisner,Nursing,Individual ,Application issue,Resolved
+799,45769,Matthew Michael Fiori,Nursing,Individual ,Application issue,Resolved
+800,45769,Michele R Thomazin,Nursing,Individual ,Application issue,Resolved
+801,45769,Barbara J King,Nursing,Individual ,Application issue,Resolved
+802,4/22/2025,Claire M Vargo,Nursing,Individual ,Application issue,Resolved
+803,4/22/2025,Elizabeth Suzanne Eliopoulos,Nursing,Individual ,Application issue,Resolved
+804,4/22/2025,Christa Dawn Lillard,Nursing,Individual ,Application issue,Resolved
+805,4/22/2025,Sara Ann Bayless,Nursing,Individual ,Application issue,Resolved
+806,4/22/2025,Cheryl J Bell,Nursing,Individual ,Application issue,Resolved
+807,4/22/2025,Lynelle A Jolliff,Nursing,Individual ,Application issue,Resolved
+808,4/22/2025,Maria Christine Gray,Nursing,Individual ,Application issue,Resolved
+809,4/22/2025,Sheila Jean Oliver,Nursing,Individual ,Application issue,Resolved
+810,4/22/2025,April Marie Greener,Nursing,Individual ,Application issue,Resolved
+811,4/25/2025,Judy ruddick,Real Estate,Individual ,License querries,Referred to board
+812,4/25/2025,Yvonne Geniene Thibault,Healing Arts,Individual ,Walkthrough,Renewed
+813,4/25/2025,Aubrey L Doss,Nursing,Individual ,Update Email,Registered
+814,4/25/2025,Xiang zhang,Nursing,Individual ,License querries,Referred to board
+815,4/25/2025,robert gunn,Healing Arts,Individual ,Password reset,Resolved
+816,4/25/2025,Nancy Dotson,Cosmetology,Individual ,Update Email,Registered
+817,4/25/2025,Michael fusco,Nursing,Individual ,Application issue,Resolved
+818,4/25/2025,Tracy A Burnau,Nursing,Individual ,Walkthrough,Renewed
+819,4/25/2025,Lynda Christian Kelley,Nursing,Individual ,Update Email,Registered
+820,4/25/2025,Laurie Sherman,Nursing,Individual ,Update Email,Registered
+821,4/25/2025,Linda Kay Stretch,Pharmacy,Individual ,Walkthrough,Renewed
+822,4/28/2025,Janis Tillman,Nursing,Individual ,Walkthrough,Renewed
+823,4/28/2025,Mary L Gerson,Nursing,Individual ,Walkthrough,Renewed
+824,4/28/2025,Lauren Kay Hogan,Nursing,Individual ,Update email,Registered
+825,4/28/2025,Tara Emily,Nursing,Individual ,Update Email,Registered
+826,4/28/2025,Katherine gerhardt,Pharmacy,Individual ,Update Email,Registered
+827,4/28/2025,Barbara A Guernsey,Nursing,Individual ,Walkthrough,Renewed
+828,4/29/2025,April M King,Nursing,Individual ,Walkthrough,Renewed
+829,4/29/2025,Earlene R Hazelrigg,Nursing,Individual ,Update Email,Registered
+830,4/29/2025,Amy ramsey,Pharmacy,Individual ,Update Email,Registered
+831,4/29/2025,Dianne holzum,Nursing,Individual ,Update Email,Registered
+832,4/29/2025,Lisa Jean Breer-Huff,Nursing,Individual ,Update Email,Registered
+833,4/29/2025,Leslie Stone,Nursing,Individual ,Password reset,Resolved
+834,4/29/2025,Karolyn Hobbs Needles,Nursing,Individual ,Update Email,Registered
+835,4/29/2025,Elizabeth Ma Roth,Nursing,Individual ,Update Email,Registered
+836,4/29/2025,Christine Anne Norman,Nursing,Individual ,Update Email,Registered
+837,4/29/2025,Catherine Kallery-Jones,counsellor,Individual ,Update Eamil,Registered
+838,4/29/2025,Cynthia B Moeller,Nursing,Individual ,Password reset,Resolved
+839,4/29/2025,Sharon L Miller,Cosmetology,Individual ,Update Email,Registered
+840,4/29/2025,Melissa B Bennett,Nusring,Individual ,Update Email,Registered
+841,4/30/2025,Joan M Clark,Nursing,Individual ,Password reset,Resolved
+842,4/30/2025,Richard Wall,Nursing,Individual ,Password reset,Resolved
+843,4/30/2025,Patricia A Adamec,Nursing,Individual ,Password reset,Resolved
+844,4/30/2025,Olivia welhoff,Real Estate,Business,License querries,Referred to board
+845,4/30/2025,Lynelle hinden,Nursing,Individual ,Application issue,Resolved
+846,4/30/2025,Rebecca Sue Poore,Nursing,Individual ,Update Email,Registered
+847,4/30/2025,Kendra L Williams,Nursing,Individual ,Password reset,Resolved
+848,4/30/2025,Anthony F Powell,Nursing,Individual ,Application issue,Resolved
+849,5/1/2025,Sandra dunlap,Pharmacy,Individual ,Update email,Registered
+850,5/1/2025,Rachel whitfield,Tattoing,Individual ,Walkthrough,Renewed
+851,5/1/2025,Judith Hein,Nursing,Individual ,Application issue,Resolved
+852,5/1/2025,Gavin Jewell,Pharmacy,Individual ,Application issue,Resolved
+853,5/1/2025,April Murray,Pharmacy,Individual ,Password reset,Resolved
+854,5/2/2025,Cheryl davis,Cosmetolgy,Individual ,License querries,Referred to board
+855,5/2/2025,Joseph lemaster,Physician,Individual ,Walkthrough,Renewed
+856,5/2/2025,Justin Bell,Nursing,Individual ,Walkthrough,Renewed
+857,5/2/2025,Stacy neal,Cosmetology,Individual ,Password reset,Resolved
+858,5/2/2025,Debbie Edwards,Nursing,Individual ,License querries,Referred to board
+859,5/2/2025,Su Deng,Accupuncture,Individual ,Update Email,Registered
+860,5/2/2025,Crystal Jeannette Phillips,Pharmacy,Individual ,Walkthrough,Renewed
+861,5/5/2025,Stephanie Ottinger,Healing Arts,Individual ,Update Email,Registerd
+862,5/5/2025,Carol harrington,Healing Arts,Individual ,Password reset,Resolved
+863,5/5/2025,Katie jett,Dental,Individual ,Password reset,Resolved
+864,5/5/2025,Brooklyn Kay Barbre,Physician,Individual ,Application issue,Resolved
+865,5/5/2025,Alexander crawford,Real Estate,Individual ,Application issue,Referred to board
+866,5/5/2025,Tracey,Nursing,Individual ,Update Email,Registered
+867,5/5/2025,Carol heflin,Healing Arts,Individual ,License querries,Referred to board
+868,5/5/2025,Stephanie Revere,Dietician,Individual ,Application issue,Resolved
+869,5/5/2025,Amanda Hon,Massage Therapy,Individual ,Walkthrough,Renewed
+870,5/6/2025,Jodine trout,Cosmetology,Business,Application issue,Resolved
+871,5/6/2025,Candace monia,Healing Arts,Individual ,Update Email,Registered
+872,5/6/2025,Jaclyn R Powell,Nursing,Individual ,Update Email,Registered
+873,5/6/2025,Carol kemper,Real Estate,Individual ,Password reset,Registered
+874,5/6/2025,Amy,Pharmacy,Individual ,Update Email,Registered
+875,5/7/2025,Robert Martin Sailer,Electrical Engineering,Individual ,Password reset,Resolved
+876,5/7/2025,Vera Ruesing,Cosmetology,Individual ,Walkthrough,Renewed
+877,5/7/2025,Stephanie barnes,Healing Arts,Individual ,Password reset,Registered
+878,5/7/2025,Nancy Smith,Nursing,Individual ,Update Email,Registered
+879,5/7/2025,Linda Criswell,Cosmetology,Individual ,Update Email,Registered
+880,5/7/2025,Dorathy Brooks,Healing Arts,Individual ,Update Email,Registered
+881,5/7/2025,Laura flaker,Cosmetology,Individual ,Update Email,Registered
+882,5/7/2025,Jeremy clincy,Nursing,Individual ,Update Email,Registered
+883,5/8/2025,Carol Lee Schmidt,Pharmacy,Individual ,Update Email,Registered
+884,5/8/2025,Robert Thurman,Real Estate Broker,Individual ,Walkthrough,Renewed
+885,5/8/2025,Suzanne Lowe,Pharmacy,Individual ,Update Email,Registered
+886,5/8/2025,Sharron Pierce,Nursing,Individual ,Password reset,Resolved
+887,45786,Hallie Wit Hoehn,Real Estate,Individual ,Application issue,Resolved
+888,45786,Cynthia Lou Day Pfeiffer,Real Estate,Individual ,Application issue,Resolved
+889,45786,Serena Williams,Pharmacy,Individual ,Update Email,Registered
